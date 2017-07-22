@@ -1,0 +1,42 @@
+html, body {
+  height:100%;
+}
+
+/*body { 
+  background: black;
+  min-height: 100%;
+  font-family: ;"Arial", sans-serif;
+}
+*/
+
+.firstcard {
+  width:120px;
+  height:180px;
+  background-color:white;
+  border:2px solid black;
+  float: left;
+}
+
+.secondcard {
+  width:120px;
+  height:180px;
+  background-color:white;
+  border:2px solid black;
+  float: left; /* add this */
+}
+
+.thirdcard {
+  width:120px;
+  height:180px;
+  background-color:white;
+  border:2px solid black;
+  float: left;
+}
+
+.fourthcard {
+  width:120px;
+  height:180px;
+  background-color:white;
+  border:2px solid black;
+  float: left;
+}
